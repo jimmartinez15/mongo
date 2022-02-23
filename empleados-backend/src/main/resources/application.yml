@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: empleadodb
+      uri: mongodb+srv://jbmartin:Nikoluq_13@cluster0.p1sjo.mongodb.net/test?retryWrites=true&w=majority
